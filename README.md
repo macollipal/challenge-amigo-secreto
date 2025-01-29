@@ -46,4 +46,4 @@ amigo-secreto/
 La aplicación incluye varias características de validación:
 - Previene el envío de nombres vacíos
 - Verifica nombres duplicados (sin distinguir entre mayúsculas y minúsculas)
-- Requiere al menos 2 participantes para el sorteo
+- Requiere al menos 1 participante para el sorteo
